@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Feed</string>
+    <string name="main_label">Feed</string>
+
+    <string name="like">LIKE</string>
+    <string name="unlike">UNLIKE</string>
+</resources>
